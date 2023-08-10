@@ -1,0 +1,1 @@
+Create 3 table in your database like books,libarian,issuebook. then write your query and commit that.after that you can run this project without any error. Thank You.
